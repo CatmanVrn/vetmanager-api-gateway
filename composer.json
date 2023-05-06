@@ -10,7 +10,7 @@
     }
   ],
   "require": {
-    "php": ">=8.1",
+    "php": ">=7.1",
     "guzzlehttp/guzzle": "^7.5",
     "otis22/vetmanager-rest-api": "^0.1.11",
     "ext-mbstring": "*"
