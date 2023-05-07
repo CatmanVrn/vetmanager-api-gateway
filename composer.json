@@ -17,7 +17,7 @@
   },
   "autoload": {
     "psr-4": {
-      "VetmanagerApiGateway\\": "src/"
+      "Ioncurly\\VetmanagerApiGateway\\": "src/"
     }
   },
   "autoload-dev": {
