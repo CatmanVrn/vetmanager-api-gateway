@@ -17,7 +17,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Ioncurly\\VetmanagerApiGateway\\": "src/"
+      "VetmanagerApiGateway\\": "src/"
     }
   },
   "autoload-dev": {
@@ -30,12 +30,6 @@
     "friendsofphp/php-cs-fixer": "^3.16",
     "vimeo/psalm": "^5.9"
   },
-  "repositories": [
-    {
-      "type": "vcs",
-      "url": "git@github.com:ionov-e/vetmanager-api-gateway.git"
-    }
-  ],
   "scripts": {
     "unit-tests": "vendor/bin/phpunit tests",
     "style-check": "vendor/bin/php-cs-fixer fix src --dry-run",
