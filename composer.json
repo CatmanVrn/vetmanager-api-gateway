@@ -3,6 +3,7 @@
   "description": "Vetmanager API Gateway",
   "license": "GPL-3.0-or-later",
   "homepage": "https://github.com/ionov-e/vetmanager-api-gateway",
+  "version": "1.0.12",
   "authors": [
     {
       "name": "Eugene Ionov",
